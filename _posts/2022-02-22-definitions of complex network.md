@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Complex network的一些笔记
+title:      Complex network的一些初步概念
 subtitle:   在写本子调研城市脆弱性时收集到的一些概念，记录以便回忆
 date:       2022-02-22
 author:     loooffeeeey
@@ -11,7 +11,7 @@ tags:
 ---
 
 
-# Complex network的一些笔记
+# Complex network的一些初步概念
 
 复杂网络以后变成实验室会比较紧密相关的一个研究方向；初步做的一个城市脆弱性研究的本子，在调研水网脆弱性的时候遇到一些概念，感觉比较有用所以记录下来
 
