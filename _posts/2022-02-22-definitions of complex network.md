@@ -43,6 +43,8 @@ $n$为点数量，$m$为边数量，$2n-5$为欧拉定理给出的最大环化�
 度量方式：与最中心节点的“距离”
 ![pic]("/img/post-formula-center.jpg")
 
+<img src="/img/post-formula-center.jpg"/>
+
 ## Spectral perspective
 
 计算方式来自网络 or 图 的邻接矩阵 or 拉普拉斯矩阵的 特征值与特征向量。

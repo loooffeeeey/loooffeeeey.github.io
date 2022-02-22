@@ -64,7 +64,7 @@ First, you need to change to the env you have just built by conda:
 ```bash
 source activete tf
 ```
-![picture2](/img/20190328post2.jpg)  
+![picture2](/img/20190328post2.jpg)
 
 For Chinese users, before starting the installation, you may change the source of conda as the same reason before. For more details, read the webcite of [Tsinghua Mirror](https://mirror.tuna.tsinghua.edu.cn/help/anaconda/).
 Chinese users should type in this:
