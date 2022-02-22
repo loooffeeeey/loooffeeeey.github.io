@@ -33,7 +33,9 @@ tags:
 [网格系数](https://en.wikipedia.org/wiki/Meshedness_coefficient)表征网络中成环的程度。
 
 网络的成环度，或者叫网格度（三角网格，或者四边网格等），计算方式如下
-$$\alpha = \frac{m-n+1}{2n-5},$$
+
+$\alpha = \frac{m-n+1}{2n-5},$
+
 $n$为点数量，$m$为边数量，$2n-5$为欧拉定理给出的最大环化的环数，$m-n+1$为当前网络**环的数量**。
 
 ### Central-point dominance
