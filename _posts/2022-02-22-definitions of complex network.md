@@ -23,10 +23,10 @@ tags:
 
 - local：
   - 表征某一个节点的$N_i$的局部邻域聚簇程度，$N_i$是$i$节点的邻域
-  - $C_i = \frac{|\{ e_{jk} : v_j,v_k \in N_i, e_{jk} \in E \}|}{k_i(k_i-1)}$, $k_i$是$N_i$中点的个数
+  - $C_i = \frac{\|\{ e_{jk} : v_j,v_k \in N_i, e_{jk} \in E \}\|}{k_i(k_i-1)}$, $k_i$是$N_i$中点的个数
 - global:
   - 表征整个网络的聚簇程度
-  - $\bar C = \frac{1}{n} \sum {n}{i=1} C_i$
+  - $\bar C = \frac{1}{n}\sum{n}{i=1}C_i$
 
 ### Meshedness coefficient
 
