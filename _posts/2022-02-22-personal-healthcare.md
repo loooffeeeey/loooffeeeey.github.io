@@ -23,12 +23,23 @@ tags:
 
 ## 体重
 
-content
+<img src="/img/health/tizhong.jpg"/>
 
 ## BMI
 
-content
+<img src="/img/health/bmi.jpg"/>
 
 ## 体脂
 
-content
+<img src="/img/health/zhifang.jpg"/>
+
+## 身体年龄
+
+<img src="/img/health/age.jpg"/>
+
+## 基础代谢
+
+<img src="/img/health/daixie.jpg"/>
+
+## 水分
+<img src="/img/health/shui.jpg"/>
