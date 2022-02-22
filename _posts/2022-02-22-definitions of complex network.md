@@ -41,7 +41,7 @@ $n$为点数量，$m$为边数量，$2n-5$为欧拉定理给出的最大环化�
 **中心度** `Freeman, L.C., 1997. A set of measures of centrality based on betweenness. Soci- ometry 40 (1), 35e41.`
 表征网络中点的中心程度。
 度量方式：与最中心节点的“距离”
-<img src="img/post-formula-center.jpg"/>
+<img src="../img/post-formula-center.jpg"/>
 
 ## Spectral perspective
 
