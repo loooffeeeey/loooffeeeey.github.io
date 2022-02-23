@@ -2,7 +2,7 @@
 layout:     post
 title:      科学研究中调研时的一些小技巧
 subtitle:   自己在调研问题时思考的一些小技巧，可以帮助提升调研效率
-date:       2022-02-22
+date:       2022-02-23
 author:     loooffeeeey
 header-img: img/post-bg-win.jpg
 catalog: true
